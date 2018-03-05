@@ -140,10 +140,12 @@ footer > ul, li {
     margin-bottom: 1em;
   }
 
+ .banner{
+  min-width: 100%;
+ }
+
   .banner > .picture {
     width: 100%;
-    min-height: 240px;
-    min-width: 300px;
   }
 
   .banner, .quote, .main, {
